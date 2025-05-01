@@ -1,16 +1,20 @@
-Chatting Application
-=====================
+# IT-3049C Chat Lab
 
-## Checklist:
-- [ ] make sure the assignment checks pass
-- [ ] fill out the self evaluation and Reflection
-- [ ] submit the repository link on Canvas
+## Author: Rohit Vijai
+## Date: February 11, 2025
 
-## Self-Reflection:
-<!-- Write your self-reflection under this line -->
+## Self-Reflection
 
-### How long it took me to finish this?
+1. **What was the most challenging part of this lab?**  
+   Implementing asynchronous fetch and DOM updates.
 
+2. **What did you enjoy most?**  
+   Seeing real-time messages update live in the chat.
 
-## Discussion Questions:
-1. What does the bootstrap `display-4` class do?
+3. **What would you do differently next time?**  
+   Use modular JS and maybe add emoji/sticker support.
+
+## Links
+
+- **GitHub Repo:** https://github.com/IT3049C/chat-app-yourgithubusername
+- **Deployed GitHub Pages:** https://it3049c-students.github.io/chat-app-yourgithubusername
